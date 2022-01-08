@@ -1,4 +1,4 @@
-# MatveyMirman-Office365-Powershell
+# Office365 User Management Toolbox
 
 A toolbox for managing users in Microsoft's Office365 Exhchange, mostly emails
 Very useful for bulk actions!
