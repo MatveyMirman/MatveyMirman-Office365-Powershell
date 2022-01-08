@@ -9,3 +9,6 @@ Currently Avaliable:
 
 Will be added in future versions:
 + Remove emails with the option to convert to shared mailbox
+
+
+### Right now the code needs several refactors and some debugging, so if you are planning to use this, do review the code.
